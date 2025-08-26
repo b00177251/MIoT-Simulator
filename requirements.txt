@@ -1,0 +1,6 @@
+paho-mqtt
+pika
+coapthon3
+scapy
+pandas
+matplotlib
